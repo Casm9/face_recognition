@@ -1,7 +1,8 @@
 name: face_recognition
 description: A package for face authentication container with functionality that you can modify variables.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Casm9/face_recognition
+repository: https://github.com/Casm9/face_recognition.git
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
