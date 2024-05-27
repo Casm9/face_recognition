@@ -16,7 +16,7 @@ The face recognition authentication package contains a number of useful containe
 
 ## Features
 
-Will be added later.
+![](https://raw.githubusercontent.com/Casm9/my-github-storage/main/face-recognation.jpg)
 
 ## Usage
 
